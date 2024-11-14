@@ -352,7 +352,7 @@ const App = () => {
             <Button
               type="button"
               className="bg-[#f5f5fa] hover:bg-gray-300 !text-black"
-              onClick={onCancel}
+              onClick={closeEditModal}
             >
               Cancel
             </Button>
